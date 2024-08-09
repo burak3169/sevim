@@ -1,0 +1,99 @@
+---> gelecek planlarımız
+--->güzel bir şarkı
+--->
+
+
+
+
+
+Aslında biz tanışalı çok olmadı. Sen beni Snapchat'ten ekledin ve Kürtler sayesinde konuşmaya başladık. İlk orada senden biraz hoşlanmaya başlamıştım; sonra ise Instagram'a geçtik. Orada konuşmalarımız devam etti ve daha fazla benzerliklerimiz olduğunu fark ettik. Her gün gitgide senden daha fazla hoşlanmaya başlıyordum. Belki de hayatımın en kötü zamanında bana bir umut, bir sevgi aşıladın. Sonra senin yeşilin en güzel, eşsiz tonundaki gözlerini gördüm; resmen vurulmuş gibi oldum. Sana, seni görmeden, sesini duymadan aşık oldum. İkimizin de birbirimiz için yaratıldığını inanıyordum. Daha sonra seni sonunda görebildim. O ilk görüşümde, bu kadar mesafelerde bile olsak mest oldum. Artık güzellik algım buydu; en güzel, en iyi budur, bunun üstü yoktur diye düşünmeye başladım ve hayatımın sonuna kadar böyle düşünücem.
+
+Sonrasında birbirimize hayallerimizden bahsettik. Önceden Behzat Ç. izlemiştim; oradaki Behzat ve Savcı Esra'nın uyumu çok hoşuma gidiyordu. Sanki hayallerim gerçek oluyordu, istediğim her şey oluyordu. En sevdiğim renk yeşil, uyumumuz gözlerin; istediğimiz meslekler. Acaba kendime sordum: "Allah'ım, noldu, öldüm mü? Beni erkenden cennetine mi aldın?" diye. Bir yerden veriyor, bir yerden alıyor. Bana seni nasip etti ama aramıza mesafe koydu. Belki şu anki sınavımız bu; bu bir sürelik uzun ilişki. Sonra her hayatta, her evrende, her yaşamımızda sınırsız mutluluk. Yani her geçen gün sana daha çok aşık oluyorum, senden daha çok hoşlanıyorum. Seninle daha çok vakit geçirmek istiyorum. Senin için ölüyorum resmen. Aklıma çok güzel hayaller geliyor; seninle yapılacak, elbet bir gün gerçekleştireceğiz bu hayalleri. Resmen tekrar doğmuş gibiyim; seninle her şeyi tekrar baştan yaşamak istiyorum. Sana sevgimi böyle bile ifade etmek yetersiz geliyor. Şu an buraya kadar 1785 harf kullandım, yetmiyor harfler, kelimeler, cümleler. Arada seni darladığım, üzdüğüm, kırdığım da oluyor; bunun için çok özür dilerim. Senden bilerek veya isteyerek yapmıyorum bunları; seni korumak ve kollamak istiyorum. Senin iyiliğini düşünüyorum. Eğer bir gün seni yine üzersem, sıkarsam, darlarsam, gitme, kızma bana. Keşke sana olan şu kısacık zamandaki sevgimi ifade etmenin bir başka yolu olsaydı. En sonda, eğer bir gün başıma bir şey olursa, bil ki seni çok sevdiğim. Hayata bir daha gelsem yine seni seçerdim, yine sana aşık olurdum. Seni bulabilmek için dağları taşları aşar, yine bulurdum. Eğer başıma bir şey gelirse unutma, seni her zaman çooooook seviyorummmm meleğimmmmm ❤️
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Defne'm</title>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="shortcut icon" type="images/png" href="images/favicon.png">
+</head>
+<body>
+    <div class="container">
+        <h1 id="main-title">Meleğime bir kaç sual</h1>
+        <div class="questions">
+            <div class="question">
+                <p>Soru 1: Beni seviyor musun?</p>
+                <button>Evet</button>
+                <button>Hayır</button>
+            </div>
+            <div class="question" style="display: none;">
+                <p>Soru 2: aynı şehirde olmak istermiydin?</p>
+                <button>Evet</button>
+                <button>Hayır</button>
+            </div>
+            <div class="question" style="display: none;">
+                <p>Soru 3: Sevcı esra ve behzat ç. olalım mı?</p>
+                <button>Evet</button>
+                <button>Hayır</button>
+            </div>
+            <div class="question" style="display: none;">
+                <p>Soru 4: Seni mutlu ediyormuyum?</p>
+                <button>Evet</button>
+                <button>Hayır</button>
+            </div>
+            <div class="question" style="display: none;">
+                <p>Soru 5: Gelecekte birlikte yaşamak ister misin?</p>
+                <button>Evet</button>
+                <button>Hayır</button>
+            </div>
+            <div class="question" style="display: none;">
+                <p>Soru 6: Hayallerini benimle paylaşmak ister misin?</p>
+                <button>Evet</button>
+                <button>Hayır</button>
+            </div>
+            <div class="question" style="display: none;">
+                <p>Soru 7: En sevdiğim renk?</p>
+                <button>yeşil</button>
+                <button>mor</button>
+            </div>
+            <div class="question" style="display: none;">
+                <p>Soru 8: Solucan olsam severmiydin?</p>
+                <button>Evet</button>
+                <button>Hayır</button>
+            </div>
+            <div class="question" style="display: none;">
+                <p>Soru 9: bir gün bi kız varmış?</p>
+                <button>oba</button>
+                <button>abo</button>
+            </div>
+            <div class="question" style="display: none;">
+                <p>Soru 10: yemek yapmayı öğrenmek istermisn?</p>
+                <button>Evet</button>
+                <button>Hayır</button>
+            </div>
+        </div>
+        <div class="result">
+            <p>Demek ki birbirimizi çok seviyoruz</p>
+        </div>
+        <div class="dreams" style="display: none;">
+            <p class="fancy-text">---> gelecek planlarımız<br>
+            --->güzel bir şarkı<br><br><br>
+            Aslında biz tanışalı çok olmadı. Sen beni Snapchat'ten ekledin ve Kürtler sayesinde konuşmaya başladık. İlk orada senden biraz hoşlanmaya başlamıştım; sonra ise Instagram'a geçtik. Orada konuşmalarımız devam etti ve daha fazla benzerliklerimiz olduğunu fark ettik. Her gün gitgide senden daha fazla hoşlanmaya başlıyordum. Belki de hayatımın en kötü zamanında bana bir umut, bir sevgi aşıladın. Sonra senin yeşilin en güzel, eşsiz tonundaki gözlerini gördüm; resmen vurulmuş gibi oldum. Sana, seni görmeden, sesini duymadan aşık oldum. İkimizin de birbirimiz için yaratıldığını inanıyordum. Daha sonra seni sonunda görebildim. O ilk görüşümde, bu kadar mesafelerde bile olsak mest oldum. Artık güzellik algım buydu; en güzel, en iyi budur, bunun üstü yoktur diye düşünmeye başladım ve hayatımın sonuna kadar böyle düşünücem.<br><br>
+            Sonrasında birbirimize hayallerimizden bahsettik. Önceden Behzat Ç. izlemiştim; oradaki Behzat ve Savcı Esra'nın uyumu çok hoşuma gidiyordu. Sanki hayallerim gerçek oluyordu, istediğim her şey oluyordu. En sevdiğim renk yeşil, uyumumuz gözlerin; istediğimiz meslekler. Acaba kendime sordum: "Allah'ım, noldu, öldüm mü? Beni erkenden cennetine mi aldın?" diye. Bir yerden veriyor, bir yerden alıyor. Bana seni nasip etti ama aramıza mesafe koydu. Belki şu anki sınavımız bu; bu bir sürelik uzun ilişki. Sonra her hayatta, her evrende, her yaşamımızda sınırsız mutluluk. Yani her geçen gün sana daha çok aşık oluyorum, senden daha çok hoşlanıyorum. Seninle daha çok vakit geçirmek istiyorum. Senin için ölüyorum resmen. Aklıma çok güzel hayaller geliyor; seninle yapılacak, elbet bir gün gerçekleştireceğiz bu hayalleri. Resmen tekrar doğmuş gibiyim; seninle her şeyi tekrar baştan yaşamak istiyorum. Sana sevgimi böyle bile ifade etmek yetersiz geliyor. Şu an buraya kadar 1785 harf kullandım, yetmiyor harfler, kelimeler, cümleler. Arada seni darladığım, üzdüğüm, kırdığım da oluyor; bunun için çok özür dilerim. Senden bilerek veya isteyerek yapmıyorum bunları; seni korumak ve kollamak istiyorum. Senin iyiliğini düşünüyorum. Eğer bir gün seni yine üzersem, sıkarsam, darlarsam, gitme, kızma bana. Keşke sana olan şu kısacık zamandaki sevgimi ifade etmenin bir başka yolu olsaydı. En sonda, eğer bir gün başıma bir şey olursa, bil ki seni çok sevdiğim. Hayata bir daha gelsem yine seni seçerdim, yine sana aşık olurdum. Seni bulabilmek için dağları taşları aşar, yine bulurdum. Eğer başıma bir şey gelirse unutma, seni her zaman çooooook seviyorummmm meleğimmmmm ❤️</p>
+            <button id="accept-button">Okudum, kabul ediyorum</button>
+        </div>
+        <div class="final-message" style="display: none;">
+            <p>Seni ne kadar sevdiğimi umarım ifade edebildim</p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.4.0/dist/confetti.browser.min.js"></script>
+</body>
+</html>
